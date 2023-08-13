@@ -1,8 +1,6 @@
 /bin/bash
 # ScriptMan
 
-# Rest of your script...
-
 # Get a list of .sh files in the current directory
 script_files=$(ls *.sh 2>/dev/null)
 
